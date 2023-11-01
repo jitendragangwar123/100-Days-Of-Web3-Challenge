@@ -1,4 +1,4 @@
-```shell
+```
 Blockchain Basics :- 
   - Introduction of Blockchain
   - Introduction of Bitcoin
