@@ -1,5 +1,5 @@
 ## 100-Days-Of-Web3-Challenge
-- This repository contains a comprehensive overview of the fundamental concepts related to Blockchain Technology that I've acquired during the 100DaysOfWeb3 challenge. It serves as a valuable resource for understanding the core principles of blockchain technology.
+This repository contains a comprehensive overview of the fundamental concepts related to Blockchain Technology that I've acquired during the 100DaysOfWeb3 challenge. It serves as a valuable resource for understanding the core principles of blockchain technology.
 
 - [Blockchain-Roadmap](https://docs.google.com/document/d/1VRturzMybh4hX9ZUTEHZqo7Dmc90vfhh4ywbB_NIepk/edit)
 - [Blockchain-Interview-Questions](https://docs.google.com/spreadsheets/d/1qDP5xnOt2B65tzlZnrQHfH3XS_5PmvrPNaP-tcxwUtY/edit#gid=0)
@@ -35,3 +35,10 @@
 
 ## Days 51-60
 - [Node.js]()
+
+## Days 61-70
+- [ECDSA Node](https://github.com/jitendragangwar123/ECDSA-Node)
+- [Supply Chain Management System](https://github.com/jitendragangwar123/Supply-Chain-Management-System)
+- [Voting Dapp](https://github.com/jitendragangwar123/Voting-Dapp)
+- [Buy Me A Coffee Dapp](https://github.com/jitendragangwar123/BuyMeACoffeeDapp)
+- [Rest API's For NFT's](https://github.com/jitendragangwar123/Rest-API-For-NFTs)
