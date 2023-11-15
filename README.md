@@ -15,5 +15,23 @@
 - [Basic Solidity](https://github.com/jitendragangwar123/Learn-Solidity-With-Examples)
 - [Advanced Solidity](https://github.com/jitendragangwar123/Ekolance-Solidity-Cohort-2)
 - [Solidity Assembly YUL Opcodes](https://github.com/jitendragangwar123/Solidity-Assembly-YUL-Opcodes)
+- [Smart Contract Optimization]()
 
 ## Days 21-30
+- [JavaScript](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/JavaScript)
+- [Web3.js](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/Web3.js)
+- [Ethers.js](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/Ethers.js)
+- [Hardhat](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/HardhatTutorial)
+
+## Days 31-40
+- [NFTs]()
+- [DeFi]()
+- [Smart Contract Testing]()
+- [Smart Contract Auditing]()
+
+## Days 41-50 
+- [React.js]()
+- [Next.js]()
+
+## Days 51-60
+- [Node.js]()
