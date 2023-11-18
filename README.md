@@ -6,8 +6,9 @@ This repository contains a comprehensive overview of the fundamental concepts re
 - [Demo-Blockchain](https://demoblockchain.org/blockchain)    
 
 ### Days 1-10
-- [Blockchain Basics](https://github.com/jitendragangwar123/100-Days-Of-Web3-Challenge/blob/main/1_Blockchain_basics.js)
+- [Blockchain Basics]()
     - [Bitcoin](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Keeping-Track-Of-Blockchain-User-State)
+    - [Ethereum](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-3)
     - [Merkel Tree](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Tree-Data-Structure/Merkel-Tree)
     - [Patricia Merkle Tries](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Blockchain_Data_Storage)
 - [Cryptography](https://github.com/jitendragangwar123/Cryptography)
