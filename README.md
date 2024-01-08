@@ -13,7 +13,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
     - [Patricia Merkle Tries](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Blockchain_Data_Storage)
 - [Cryptography](https://github.com/jitendragangwar123/Cryptography)
 - [Create Your Own Blockchain]()
-- [Blockchain Explorer]()
+- [Blockchain Explorer](https://github.com/jitendragangwar123/Ethereum-Block-Explorer)
 
 ### Days 11-20
 - [Basic Solidity](https://github.com/jitendragangwar123/Learn-Solidity-With-Examples)
@@ -29,16 +29,23 @@ This repository contains a comprehensive overview of the fundamental concepts re
 
 ### Days 31-40
 - [NFTs]()
+    - [Mint-The-NFT](https://github.com/jitendragangwar123/Mint-The-NFT) 
+    - [Soulbound-Token](https://github.com/jitendragangwar123/Soulbound-Token)
+    - [NFT-Indexer](https://github.com/jitendragangwar123/NFT-Indexer)
+    - [Fractional-NFT](https://github.com/jitendragangwar123/Fractional-NFT-UseCase-For-Real-Estate)
+    - [Dynamic-NFT-For-Gaming](https://github.com/jitendragangwar123/Dynamic-NFT-For-Gaming)
+    - [NFT-Marketplace](https://github.com/jitendragangwar123/KryptoBirdz-NFT-Marketplace)
 - [DeFi]()
+    - [ICO-Dapp](https://github.com/jitendragangwar123/Crowd-Sale-ICO-Dapp)
 - [Smart Contract Testing]()
 - [Smart Contract Auditing]()
 
 ### Days 41-50 
-- [React.js]()
+- [React.js](https://github.com/jitendragangwar123/ReactJs-Tutorial)
 - [Next.js]()
 
 ### Days 51-60
-- [Node.js]()
+- [Node.js](https://github.com/jitendragangwar123/Udemy-NodeJs-Course)
 
 ### Days 61-70
 - [ECDSA Node](https://github.com/jitendragangwar123/ECDSA-Node)
@@ -46,3 +53,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
 - [Voting Dapp](https://github.com/jitendragangwar123/Voting-Dapp)
 - [Buy Me A Coffee Dapp](https://github.com/jitendragangwar123/BuyMeACoffeeDapp)
 - [Rest API's For NFT's](https://github.com/jitendragangwar123/Rest-API-For-NFTs)
+  
+### Days 71-80 
+- [Escrow-Dapp](https://github.com/jitendragangwar123/Escrow-Dapp)
+- [Merkel-Tree-Gift-List](https://github.com/jitendragangwar123/Merkle-Tree-Gift-List)
