@@ -26,6 +26,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
 - [Web3.js](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/Web3.js)
 - [Ethers.js](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/Ethers.js)
 - [Hardhat](https://github.com/jitendragangwar123/Full-Stack-Blockchain-Development-Roadmap/tree/main/HardhatTutorial)
+- [Foundry](https://github.com/jitendragangwar123/Learn-Foundry)
 
 ### Days 31-40
 - [NFTs]()
@@ -57,3 +58,6 @@ This repository contains a comprehensive overview of the fundamental concepts re
 ### Days 71-80 
 - [Escrow-Dapp](https://github.com/jitendragangwar123/Escrow-Dapp)
 - [Merkel-Tree-Gift-List](https://github.com/jitendragangwar123/Merkle-Tree-Gift-List)
+
+### Days 81-90
+- [Rust](https://github.com/jitendragangwar123/Learn-Rust-With-Examples)
