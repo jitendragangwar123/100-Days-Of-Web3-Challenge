@@ -40,6 +40,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
     - [ICO-Dapp](https://github.com/jitendragangwar123/Crowd-Sale-ICO-Dapp)
 - [Smart Contract Testing]()
 - [Smart Contract Auditing]()
+    - [Smart-Contract-Security-Challenges](https://github.com/jitendragangwar123/Smart-Contract-Security-Challenges)
 
 ### Days 41-50 
 - [React.js](https://github.com/jitendragangwar123/ReactJs-Tutorial)
