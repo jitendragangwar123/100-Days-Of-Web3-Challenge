@@ -12,7 +12,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
     - [Merkel Tree](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Tree-Data-Structure/Merkel-Tree)
     - [Patricia Merkle Tries](https://github.com/jitendragangwar123/Ethereum-Developer-Bootcamp-Alchemy-University/tree/main/Week-2/Blockchain_Data_Storage)
 - [Cryptography](https://github.com/jitendragangwar123/Cryptography)
-- [Create Your Own Blockchain]()
+- [Create Your Own Blockchain](https://github.com/jitendragangwar123/ChainRust)
 - [Blockchain Explorer](https://github.com/jitendragangwar123/Ethereum-Block-Explorer)
 
 ### Days 11-20
@@ -38,7 +38,7 @@ This repository contains a comprehensive overview of the fundamental concepts re
     - [NFT-Marketplace](https://github.com/jitendragangwar123/KryptoBirdz-NFT-Marketplace)
 - [DeFi]()
     - [ICO-Dapp](https://github.com/jitendragangwar123/Crowd-Sale-ICO-Dapp)
-- [Smart Contract Testing]()
+- [Smart Contract Testing](https://github.com/jitendragangwar123/Bet-Fusion)
 - [Smart Contract Auditing]()
     - [Smart-Contract-Security-Challenges](https://github.com/jitendragangwar123/Smart-Contract-Security-Challenges)
 
